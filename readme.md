@@ -1,4 +1,4 @@
-# Basic QA Portfolio - Selenium Test Automation
+# QA Portfolio - Basic Selenium Test Automation
 
 Automated UI tests for career pages of Nokia and Ryanair, built with Python and Selenium.
 
